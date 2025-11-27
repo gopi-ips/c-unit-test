@@ -1,4 +1,4 @@
-name: Generate C/C++ unit tests (UTBot)
+name: Generate C/C++ unit tests (UTBot) testing
 
 on:
   pull_request:
